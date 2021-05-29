@@ -1,7 +1,7 @@
  ![Logo UOC](img/logo_uoc_peq.png?raw=true) 
 
 # PRACTICA 2: Visualizacion
-ii
+
 ## Contenido
 
 Este repositorio contiene parte del trabajo realizado por José Luis Rivas Calduch como alumno de **Master en Ciencia de Datos** de la **UOC** para la asignatura **Visualización de Datos** en concreto para la PRACTICA 1 del curso 20-21 en su segundo semestre.
