@@ -16,7 +16,4 @@ Para mas detalle ver:
 https://github.com/RivasCalduch/IndiceReferenciaMercadoHipotecario
 
 ## Ficheros de codigo
-* **scr/COVID19_vaccine_EU_EEA.Rmd:** Markdown con el codigo en R.
-
-## Ficheros con el resultado del análisis
-* **outcome/COVID19_vaccine_EU_EEA.pdf:** Fichero PDF con el libro de R Markdown desarrollado
+* **scr/chart_generator.ipynb:** Codigo python para la generación de los gráficos.
